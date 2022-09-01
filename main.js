@@ -4,5 +4,5 @@ const desktopMenu = document.querySelector('.desktop-menu')
 navbarEmail.addEventListener('click', toogleDesktopMenu);
 
 function toogleDesktopMenu() {
-  desktopMenu.classList.toggle('inactive')
+  desktopMenu.classList.toggle('desktop-menu-inactive')
 }

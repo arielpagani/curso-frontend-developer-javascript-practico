@@ -112,7 +112,7 @@ nav {
   margin-bottom: 20px;
   display: inline-block;
 }
-.inactive {
+.desktop-menu-inactive {
   display: none;
 }
 @media (max-width: 640px) {
